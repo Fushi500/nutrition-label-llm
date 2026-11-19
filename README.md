@@ -53,3 +53,9 @@ Handles comma/point decimal separators, unit variations, label-language differen
 - `train.py` — training script (config at the top)
 - `setup.py` — environment setup
 - `data/dataset11.zip` — the synthetic dataset
+
+## License
+
+The code is under the MIT License, see `LICENSE`.
+
+The files in `data/off/` derive from [Open Food Facts](https://world.openfoodfacts.org) and stay under the [Open Database License 1.0](https://opendatacommons.org/licenses/odbl/1-0/). The synthetic dataset in `data/dataset/` was generated for this project.
